@@ -23,5 +23,14 @@ venv/
 
 # Database dump
 
+# Node.js
+node_modules/
+
+# Environment/config files
+.env
+.env.local
+.env.development
+.env.production
+
 # Optional: Local configuration (only if sensitive)
 # config.py        # Uncomment if config.py contains secrets
